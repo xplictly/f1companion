@@ -1,0 +1,27 @@
+# IDE files
+.idea/
+.gradle/
+build/
+local.properties
+
+# Android Studio generated files
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Keystore files
+*.jks
+*.keystore
+
+# Chaquopy build files
+.chaquopy/
+
+# Generated code
+app/build/
