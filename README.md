@@ -85,7 +85,7 @@ If you want me to open the README in a branch and push it for you, ensure your r
 
 ## License
 
-No license file detected in the repository. Add a `LICENSE` file in the project root if you want to explicitly state terms (MIT, Apache 2.0, etc.).
+Under MIT License
 
 ## Contact
 
