@@ -93,4 +93,4 @@ Repository / GitHub: `https://github.com/xplictly/f1companion`
 
 ---
 
-Generated README created by an automated assistant using the repository configuration found in the project files. Edit or expand this file with screenshots, feature descriptions, and contributor guidelines as you see fit.
+Note:- The app doesn't have an accurate represention of the current or the past F1 grid and results as python (Tried using FastF1 Package) wasn't supported on Android Studio(or in short, Java and Kotlin).
